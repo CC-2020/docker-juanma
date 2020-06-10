@@ -9,3 +9,5 @@ Para crear los contenedores:
  - docker-compose up --build
 
  - Para crear la tabla y sus usuarios hace falta ejecutar install.php. http://<host>/install.php
+
+http://3.83.227.52/index.php
